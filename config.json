@@ -1,7 +1,7 @@
 {
-	"ip":"damertest.aternos.me",
-	"port": 58015,
-	"name": "afkbot",
+	"ip":"the_repper_jack.aternos.me",
+	"port": 42967,
+	"name": "yorha_32",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
